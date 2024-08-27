@@ -1,2 +1,2 @@
-# javascript_modulo_3
- Entendendo e manipulando o DOM
+# Desenvolvimento Pessoal em JavaScript
+ Manipulação do DOM (Document Object Model)
